@@ -2,9 +2,9 @@
 
 -----
 This is a public repository, but it is intended only for the students and staff of the 
-UvA course **Information Analytics and the Digital Humaities**.
+UvA course **Information Analytics and the Digital Humanities**.
 
-This is the GitHub Repository for Information Analytics and the Digital Humaities Course 
+This is the GitHub Repository for Information Analytics and the Digital Humanities Course 
 (UvA, MA Archival and Information Studies). You will find the following resources in 
 this repository:
 
